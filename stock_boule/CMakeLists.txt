@@ -1,0 +1,11 @@
+add_executable(stock_boule
+    beschb.f  
+    bessjy.f 
+    sphbes.f 
+    chebev.f 
+    bsf.f 
+    gauleg.f     
+    def_gparam.f90 
+    module_boule.f90 
+    stock_boule.f90
+)

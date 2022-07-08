@@ -1,0 +1,35 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Dahlen \& Tromp}{Dahlen \&
+  Tromp}{1998}]{Dahlen_1998}
+Dahlen, F.~A. \& Tromp, J., 1998.
+\newblock {\em Theoretical {G}lobal {S}eismology}.
+\newblock Princeton University Press. NJ.
+
+\bibitem[\protect\citeauthoryear{Saito}{Saito}{1988}]{Saito_1988}
+Saito, M., 1988.
+\newblock {DISPER80}: A subroutine package for the calculation of seismic
+  normal--mode solutions.
+\newblock In D.~J. Doornbos (Ed.), {\em {S}eismological alogorithms}, pp.\
+  294--319. Academic Press, New York.
+
+\bibitem[\protect\citeauthoryear{Takeuchi \& Saito}{Takeuchi \&
+  Saito}{1972}]{Takeuchi_Saito_1972}
+Takeuchi, H. \& Saito, M., 1972.
+\newblock Seismic surface waves.
+\newblock {\em Methods in computational Physics.\/},~{\bf 11}, 217--295.
+
+\bibitem[\protect\citeauthoryear{Woodhouse}{Woodhouse}{1988}]{Woodhouse_1988}
+Woodhouse, J.~H., 1988.
+\newblock The calculation of eigenfrequencies and eigenfunctions of the free
+  oscillations of the earth and the sun.
+\newblock In D.~J. Doornbos (Ed.), {\em {S}eismological algorithms}, pp.\
+  321--370. Academic Press, New York.
+
+\bibitem[\protect\citeauthoryear{Woodhouse \& Girnius}{Woodhouse \&
+  Girnius}{1982}]{Woodhouse_Girnius_1982}
+Woodhouse, J.~H. \& Girnius, T.~P., 1982.
+\newblock Surface waves and free oscillations in a regionalized earth model.
+\newblock {\em Geophys. J. R. Astron. Soc.\/},~{\bf 78}, 641--660.
+
+\end{thebibliography}

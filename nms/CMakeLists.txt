@@ -1,0 +1,31 @@
+add_executable(get_fctp
+    def_gparam.f90 
+    nrtype.f90 
+    nrutil.f90  
+    global_main.f90
+    module_modele.f90 
+    module_spline.f90  
+    util_fctp.f90 
+    get_fctp.f90
+)
+
+add_executable(nms
+    xerbla.f 
+    def_gparam.f90  
+    lsame.f 
+    zgemv.f
+    dfour1.f
+    nrtype.f90 
+    nrutil.f90 
+    global_main.f90 
+    time_function.f90
+    module_modele.f90 
+    module_spline.f90
+    util_fctp.f90 
+    module_modes.f90 
+    nms.f90 
+)
+
+add_executable(generate_prem
+    generate_prem.f90
+)
